@@ -7,4 +7,4 @@
 
 This repository a backup of a school project I made as a school project for Black History Month in the style of a Geocities website. I might update it next year or something, I don't really care.
 
-Find it @ https://alephdfilms.github.io/blacklivesmatter/.
+Find it @ https://rubberocket.github.io/blacklivesmatter/.
